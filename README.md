@@ -27,13 +27,17 @@ Add Plugin to Your Unity Project
 
 Setup New User
 --------------
-1. Create an instance of LeaderboardScript.cs file. 
+1. Create an instance of LeaderboardScript.cs file.
+
 
 	LeaderboardScript leaderboardScript = new LeaderboardScript();
 
+
 2. Call setUser method and pass user name as an argument. 
-	
+
+
 	leaderboardScript.setUser("user name");
+
 
 Post Score to Leaderboard
 -------------------------
