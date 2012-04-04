@@ -9,8 +9,9 @@ Follow these instructions to integrate PlacePlay Ads in your Android app. You ca
 2. Clone/Download SDK from GitHub
 
 3. Add the following value as metadata in your application (Alternately you can pass the app id everytime you create the PALayout)
-	Meta data Name: PLACEPLAY_GAMEID
-	Meta data value: <YOUR APP ID HERE>
+	
+		Meta data Name: PLACEPLAY_GAMEID
+		Meta data value: <YOUR APP ID HERE>
 
 4. Use the following Android permissions:
 		
